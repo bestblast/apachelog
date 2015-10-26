@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.44, for debian-linux-gnu (x86_64)
 --
--- Host: localhost    Database: db_log
+-- Host: localhost    Database: apachelog
 -- ------------------------------------------------------
 -- Server version	5.5.44-0ubuntu0.14.04.1-log
 
